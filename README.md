@@ -1,3 +1,5 @@
+# AngularJS Bootstrap starter template
+
 ## 1st run
 
 Install node dependencies:
